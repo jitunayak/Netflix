@@ -1,2 +1,6 @@
-package com.netflix.shikha.netflix.models;public enum Languages {
+package com.netflix.shikha.netflix.models;
+
+public enum Languages {
+    HINDI,
+    ENGLISH
 }
